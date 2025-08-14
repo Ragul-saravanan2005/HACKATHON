@@ -1,0 +1,54 @@
+
+SQL*Loader: Release 11.1.0.6.0 - Production on Mon Aug 11 20:33:23 2025
+
+Copyright (c) 1982, 2007, Oracle.  All rights reserved.
+
+Control File:   survey_data.ctl
+Data File:      C:\\Users\\ASUS\\Downloads\\penta\\MOCK_DATA.csv
+  Bad File:     survey_data.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 1
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table SURVEY_DATA, loaded from every logical record.
+Insert option in effect for this table: INSERT
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+ID                                  FIRST     *   ,  O(") CHARACTER            
+OCCUPATION                           NEXT     *   ,  O(") CHARACTER            
+STATE                                NEXT     *   ,  O(") CHARACTER            
+DISTRICT                             NEXT     *   ,  O(") CHARACTER            
+GENDER                               NEXT     *   ,  O(") CHARACTER            
+INCOME                               NEXT     *   ,  O(") CHARACTER            
+YEAR                                 NEXT     *   ,  O(") CHARACTER            
+
+
+Table SURVEY_DATA:
+  500 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 115584 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          1
+Total logical records read:           500
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Mon Aug 11 20:33:23 2025
+Run ended on Mon Aug 11 20:33:23 2025
+
+Elapsed time was:     00:00:00.21
+CPU time was:         00:00:00.11

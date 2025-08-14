@@ -1,0 +1,501 @@
+id	occupation_title	state	district	gender	income	year	nco_code
+69	Computer Systems Analyst III	Tamil Nadu	Nagapattinam	Male	76	49	7470
+37	Data Coordinator	Kerala	Medak	Male	83	64	9941
+71	Structural Analysis Engineer	Kerala	Warangal (Rural)	Female	18	80	8346
+30	Chief Design Engineer	Karnataka	Jayashankar Bhupalpally	Male	78	25	2915
+80	Engineer I	Kerala	Kottayam	Female	75	16	3188
+81	Statistician IV	Tamil Nadu	Kancheepuram	Male	18	15	9671
+53	Office Assistant II	Tamil Nadu	Salem	Female	4	68	4144
+69	Administrative Officer	Kerala	Kottayam	Female	100	1	7847
+23	Cost Accountant	Tamil Nadu	Hyderabad	Male	65	92	1352
+31	Business Systems Development Analyst	and Telangana.	Jagtial	Female	71	81	7009
+16	Executive Secretary	Tamil Nadu	Mahabubabad	Female	30	10	2297
+50	Senior Quality Engineer	Karnataka	Thrissur	Male	84	48	6813
+35	Technical Writer	Tamil Nadu	Alappuzha	Male	68	34	7137
+34	Health Coach II	Karnataka	Wanaparthy	Female	29	97	6611
+6	Assistant Professor	and Telangana.	Tiruppur	Male	52	89	3833
+27	Staff Scientist	Tamil Nadu	Ranipet	Male	28	75	5006
+35	Occupational Therapist	Kerala	Komaram Bheem Asifabad	Male	49	9	7345
+49	Editor	Tamil Nadu	Kollam	Female	7	84	4362
+1	Paralegal	and Telangana.	Suryapet	Female	62	52	5098
+98	Chemical Engineer	Karnataka	Palakkad	Female	90	21	3717
+46	Director of Sales	and Telangana.	Tiruvallur	Female	7	77	8503
+33	Media Manager II	Andhra Pradesh	Warangal (Rural)	Female	71	93	7646
+93	Research Associate	and Telangana.	Kanyakumari	Female	60	44	3004
+24	Speech Pathologist	Karnataka	Nirmal	Female	100	70	7081
+83	Project Manager	Karnataka	Karimnagar	Female	71	39	7291
+72	Director of Sales	Andhra Pradesh	Kamareddy	Female	54	73	8503
+64	Pharmacist	Karnataka	Warangal (Rural)	Agender	15	27	3523
+19	VP Product Management	Kerala	Sangareddy	Genderfluid	38	57	6149
+60	Food Chemist	Tamil Nadu	Idukki	Male	97	5	1411
+12	Payment Adjustment Coordinator	Kerala	Suryapet	Male	31	35	4269
+75	Tax Accountant	Andhra Pradesh	Idukki	Female	100	57	7096
+97	Accountant II	Andhra Pradesh	Jayashankar Bhupalpally	Female	39	17	4597
+34	Software Consultant	and Telangana.	Tiruchirappalli	Polygender	14	18	2780
+69	Marketing Manager	Karnataka	Jayashankar Bhupalpally	Female	17	28	2896
+91	Research Nurse	Andhra Pradesh	Warangal (Urban)	Female	59	4	2741
+25	Accountant III	Karnataka	Kannur	Male	13	71	9474
+93	Assistant Media Planner	Andhra Pradesh	Chengalpattu	Female	5	17	9359
+71	Payment Adjustment Coordinator	Kerala	Mayiladuthurai	Female	35	47	4269
+67	Physical Therapy Assistant	Karnataka	Nizamabad	Male	66	60	1207
+44	Quality Control Specialist	Andhra Pradesh	Tiruvarur	Female	42	92	2972
+18	Biostatistician III	Kerala	Pathanamthitta	Male	90	63	6545
+14	Associate Professor	Tamil Nadu	Dharmapuri	Female	97	10	8638
+4	Cost Accountant	Kerala	Thanjavur	Male	12	17	1352
+81	Civil Engineer	Tamil Nadu	and Yadadri Bhuvanagiri.  Thiruvananthapuram	Female	94	56	1973
+74	Account Representative II	and Telangana.	Coimbatore	Male	32	32	8020
+48	Statistician I	Andhra Pradesh	Medchal-Malkajgiri	Female	34	35	4331
+60	Geological Engineer	Tamil Nadu	Tiruppur	Female	100	95	7455
+1	Paralegal	Kerala	Nirmal	Male	13	8	5098
+74	Office Assistant IV	Tamil Nadu	Kallakurichi	Male	51	100	4328
+72	Automation Specialist IV	Tamil Nadu	Narayanpet	Male	8	91	3552
+77	Financial Advisor	and Telangana.	Kannur	Male	100	33	1893
+73	Senior Cost Accountant	Kerala	Perambalur	Male	25	98	3554
+54	Mechanical Systems Engineer	Tamil Nadu	Jangaon	Female	72	71	2296
+84	Programmer I	Andhra Pradesh	Karimnagar	Female	72	41	2641
+50	General Manager	Andhra Pradesh	Idukki	Male	49	41	6133
+74	VP Marketing	Kerala	Tiruppur	Male	84	9	9438
+64	Actuary	Kerala	Tirupattur	Male	60	39	4634
+21	Systems Administrator IV	Tamil Nadu	Narayanpet	Male	77	88	7006
+76	GIS Technical Architect	Tamil Nadu	Kancheepuram	Male	96	92	7901
+25	Analyst Programmer	and Telangana.	Coimbatore	Female	35	84	3355
+29	Health Coach IV	Andhra Pradesh	Thrissur	Female	16	2	6611
+89	Librarian	Karnataka	Hyderabad	Male	89	96	6075
+10	Cost Accountant	Andhra Pradesh	and Virudhunagar.	Genderfluid	66	100	1352
+91	Analog Circuit Design manager	and Telangana.	Medchal-Malkajgiri	Female	66	21	8821
+31	Design Engineer	Kerala	Perambalur	Male	14	77	9203
+81	Structural Analysis Engineer	Kerala	and Virudhunagar.	Female	96	80	8346
+45	Analyst Programmer	Karnataka	Tirunelveli	Female	59	16	3355
+75	Chief Design Engineer	Andhra Pradesh	Pathanamthitta	Male	59	28	2915
+88	Help Desk Operator	Andhra Pradesh	Cuddalore	Female	83	84	8772
+83	Engineer IV	Kerala	Jangaon	Male	52	24	3188
+97	Dental Hygienist	Andhra Pradesh	Ramanathapuram	Male	93	67	2582
+94	Software Engineer I	Kerala	Nirmal	Female	33	97	9850
+55	Tax Accountant	Andhra Pradesh	Alappuzha	Male	46	89	7096
+24	Teacher	and Telangana.	Idukki	Male	50	50	8252
+59	Analyst Programmer	Andhra Pradesh	Rajanna Sircilla	Male	43	3	3355
+30	Tax Accountant	Karnataka	Svikarabad	Genderqueer	88	86	7096
+77	Chemical Engineer	Andhra Pradesh	Ranipet	Male	65	5	3717
+81	Research Assistant I	Kerala	Chengalpattu	Male	8	21	3984
+94	Graphic Designer	Tamil Nadu	Coimbatore	Male	98	4	7631
+28	Professor	Tamil Nadu	Nagarkurnool	Male	78	31	5825
+25	Biostatistician III	Andhra Pradesh	Sangareddy	Female	20	6	6545
+10	Teacher	Karnataka	Jangaon	Male	15	91	8252
+16	Developer III	and Telangana.	Chennai	Female	61	26	3632
+7	Teacher	Tamil Nadu	Karur	Female	62	24	8252
+29	Graphic Designer	Andhra Pradesh	Kanyakumari	Female	54	33	7631
+51	Staff Scientist	Andhra Pradesh	Jayashankar Bhupalpally	Male	38	48	5006
+34	Quality Engineer	Andhra Pradesh	Thanjavur	Female	86	31	1791
+13	Programmer I	Andhra Pradesh	Tiruvarur	Female	60	91	2641
+97	Software Engineer I	Kerala	Perambalur	Male	81	89	9850
+36	Dental Hygienist	Kerala	Medchal-Malkajgiri	Male	98	36	2582
+87	Mechanical Systems Engineer	and Telangana.	Perambalur	Male	29	50	2296
+42	Database Administrator II	and Telangana.	Dindigul	Female	28	78	4331
+34	Automation Specialist III	Tamil Nadu	Mayiladuthurai	Female	77	91	6248
+76	Physical Therapy Assistant	and Telangana.	Dindigul	Male	41	52	1207
+68	Environmental Specialist	and Telangana.	Svikarabad	Male	39	83	4002
+1	Analog Circuit Design manager	Tamil Nadu	Pathanamthitta	Female	87	32	8821
+95	Sales Associate	Tamil Nadu	Nirmal	Female	51	51	9588
+27	Pharmacist	and Telangana.	Kamareddy	Male	57	14	3523
+14	Nurse	and Telangana.	Perambalur	Bigender	80	94	7186
+84	Chief Design Engineer	Kerala	Kanyakumari	Female	99	82	2915
+87	Data Coordinator	Kerala	Kannur	Male	50	59	9941
+41	Research Associate	Karnataka	Nilgiris	Female	7	41	3004
+84	Engineer III	Andhra Pradesh	Thrissur	Male	79	1	5617
+92	Internal Auditor	and Telangana.	Jayashankar Bhupalpally	Female	36	39	6218
+50	Marketing Manager	Kerala	Kozhikode	Male	26	44	2896
+89	Design Engineer	Kerala	Medak	Female	11	31	9203
+33	Pharmacist	Andhra Pradesh	Wayanad	Male	44	99	3523
+19	Administrative Assistant IV	Kerala	Sivaganga	Non-binary	18	8	9066
+65	Occupational Therapist	and Telangana.	Krishnagiri	Male	45	3	7345
+35	Assistant Media Planner	Kerala	Wanaparthy	Male	33	71	9359
+96	Assistant Professor	Karnataka	Idukki	Bigender	55	59	3833
+18	Occupational Therapist	Andhra Pradesh	Idukki	Agender	38	72	7345
+41	Design Engineer	Kerala	Bhadradri Kothagudem	Female	85	39	9203
+89	Technical Writer	Kerala	Warangal (Rural)	Female	49	65	7137
+19	Software Consultant	Andhra Pradesh	Salem	Non-binary	14	92	2780
+21	Engineer II	Andhra Pradesh	Medchal-Malkajgiri	Male	99	87	5617
+81	Assistant Professor	Tamil Nadu	Krishnagiri	Male	24	55	3833
+28	Software Engineer I	Tamil Nadu	Jogulamba Gadwal	Male	30	48	9850
+75	Statistician II	Andhra Pradesh	Ranipet	Female	41	76	4331
+24	Marketing Manager	Kerala	Nirmal	Genderqueer	14	83	2896
+22	Nurse	Karnataka	Chennai	Male	9	7	7186
+71	Speech Pathologist	Karnataka	Medak	Female	31	73	7081
+62	Chemical Engineer	Karnataka	Villupuram	Male	11	42	3717
+59	GIS Technical Architect	and Telangana.	Ramanathapuram	Female	44	46	7901
+61	Statistician II	Tamil Nadu	Villupuram	Female	25	50	4331
+73	Electrical Engineer	Kerala	Mancherial	Female	81	16	4377
+98	Legal Assistant	Tamil Nadu	Mancherial	Female	31	49	9066
+49	Social Worker	and Telangana.	Mahabubabad	Female	62	40	2700
+87	Food Chemist	Tamil Nadu	Cuddalore	Female	28	29	1411
+99	Statistician III	and Telangana.	Nalgonda	Female	66	6	1786
+81	Systems Administrator I	and Telangana.	Warangal (Rural)	Female	98	53	3947
+69	Research Associate	Tamil Nadu	Tiruvallur	Agender	20	59	3004
+68	Sales Associate	Tamil Nadu	Nirmal	Female	67	7	9588
+88	Software Test Engineer IV	Andhra Pradesh	Suryapet	Male	44	54	9337
+84	Nurse	and Telangana.	Thanjavur	Female	19	51	7186
+86	Engineer III	Kerala	Kottayam	Male	34	96	5617
+50	Director of Sales	Karnataka	Siddipet	Female	40	10	8503
+39	Junior Executive	Tamil Nadu	and Kasaragod.  Ariyalur	Female	37	38	5032
+23	Research Nurse	Tamil Nadu	and Kasaragod.  Ariyalur	Male	73	48	2741
+66	Engineer II	Kerala	Tiruchirappalli	Male	64	16	5617
+96	Tax Accountant	Kerala	Peddapalli	Male	29	47	7096
+85	Speech Pathologist	Tamil Nadu	Malappuram	Male	46	21	7081
+52	Senior Developer	and Telangana.	Malappuram	Male	24	100	8825
+79	Project Manager	Andhra Pradesh	Namakkal	Male	34	73	7291
+82	Geologist II	and Telangana.	Mayiladuthurai	Female	36	11	4105
+17	Marketing Assistant	Karnataka	Tirunelveli	Male	73	86	5479
+74	Internal Auditor	Andhra Pradesh	Warangal (Urban)	Female	62	86	6218
+78	Account Executive	Karnataka	Mancherial	Male	53	93	3065
+5	Structural Analysis Engineer	and Telangana.	Tiruppur	Female	55	50	8346
+4	Quality Control Specialist	Karnataka	Palakkad	Male	87	38	2972
+76	Software Engineer III	Tamil Nadu	Siddipet	Male	41	94	7196
+100	Senior Cost Accountant	Tamil Nadu	Kallakurichi	Female	78	48	3554
+70	Graphic Designer	and Telangana.	Kamareddy	Male	34	15	7631
+91	Programmer III	Andhra Pradesh	Chennai	Female	25	98	7223
+90	Web Designer II	Tamil Nadu	and Yadadri Bhuvanagiri.  Thiruvananthapuram	Male	67	17	9958
+26	Web Developer I	Andhra Pradesh	and Yadadri Bhuvanagiri.  Thiruvananthapuram	Male	8	50	3018
+73	Geologist I	Kerala	Malkajgiri	Female	64	64	4105
+95	Chemical Engineer	Andhra Pradesh	Namakkal	Male	83	54	3717
+30	Accounting Assistant I	Tamil Nadu	Mahabubabad	Female	8	5	2378
+71	Structural Engineer	Karnataka	Sangareddy	Female	88	54	6109
+32	Help Desk Technician	Karnataka	Tirupattur	Male	85	94	8448
+8	Assistant Media Planner	Kerala	Erode	Female	68	99	9359
+40	Senior Quality Engineer	and Telangana.	Bhadradri Kothagudem	Female	32	11	6813
+94	Programmer I	Kerala	Jogulamba Gadwal	Female	32	93	2641
+3	Social Worker	Andhra Pradesh	Warangal (Rural)	Female	6	8	2700
+93	Recruiting Manager	Kerala	Nalgonda	Male	52	46	4485
+60	Database Administrator I	Tamil Nadu	Dharmapuri	Genderfluid	17	9	3018
+63	Account Representative I	Tamil Nadu	and Yadadri Bhuvanagiri.  Thiruvananthapuram	Polygender	24	96	6449
+16	VP Sales	Kerala	Malappuram	Female	45	24	2897
+6	Editor	Kerala	Nirmal	Female	42	76	4362
+47	Research Nurse	Tamil Nadu	Rajanna Sircilla	Male	54	86	2741
+45	Structural Engineer	and Telangana.	Cuddalore	Male	17	71	6109
+9	Business Systems Development Analyst	Kerala	Hyderabad	Female	71	91	7009
+50	Database Administrator IV	Tamil Nadu	Warangal (Urban)	Male	59	21	2641
+52	Marketing Assistant	Kerala	Ranipet	Female	92	15	5479
+78	Desktop Support Technician	Kerala	Svikarabad	Male	75	25	4112
+22	Administrative Assistant I	Kerala	Ramanathapuram	Female	69	31	8645
+92	Health Coach III	Andhra Pradesh	Komaram Bheem Asifabad	Male	74	82	7680
+81	Assistant Professor	Tamil Nadu	Vellore	Male	49	93	3833
+29	Cost Accountant	and Telangana.	Hyderabad	Male	27	86	1352
+31	Internal Auditor	Karnataka	Ramanathapuram	Male	74	54	6218
+79	Tax Accountant	Andhra Pradesh	Tiruvarur	Female	79	32	7096
+4	Geologist I	Andhra Pradesh	Ranipet	Female	81	72	4105
+13	Internal Auditor	and Telangana.	Svikarabad	Female	14	51	6218
+95	Tax Accountant	Kerala	Ramanathapuram	Female	16	99	7096
+8	Safety Technician II	Tamil Nadu	Theni	Non-binary	34	88	2720
+60	Marketing Assistant	Andhra Pradesh	Tiruvannamalai	Female	59	70	5479
+11	Software Engineer III	Karnataka	Malappuram	Female	70	89	7196
+37	Research Assistant II	Tamil Nadu	Bagalkot Ballari (Bellary) Belagavi (Belgaum) Bengaluru Rural Bengaluru Urban Bidar Chamarajanagar Chikballapur Chikkamagaluru Chitradurga Dakshina Kannada Davanagere Dharwad Gadag Hassan Haveri Kalaburagi (Gulbarga) Kodagu Kolar Koppal Mandya Mysuru (Mysore) Raichur Ramanagara Shivamogga (Shimoga) Tumakuru (Tumkur) Udupi Uttara Kannada Vijayapura (Bijapur) Yadgir Vijayanagara Alluri Sitharama Raju Anakapalli Anantapur Annamayya Bapatla Chittoor Dr. B.R. Ambedkar Konaseema East Godavari Eluru Guntur Kakinada Krishna Kurnool Manyam Nandyal NØªØ± (NTR) Palnadu Parvathipuram Manyam Prakasam Partapgarh Srikakulam Sri Sathya Sai Tirupati Visakhapatnam Vizianagaram West Godavari  Adilabad	Female	47	70	3984
+32	Financial Analyst	Kerala	Villupuram	Female	30	65	8881
+46	Administrative Officer	Kerala	Komaram Bheem Asifabad	Female	59	58	7847
+10	Librarian	Kerala	Nagarkurnool	Male	96	45	6075
+95	Marketing Manager	Andhra Pradesh	Tirupattur	Male	38	30	2896
+95	Administrative Officer	and Telangana.	Kozhikode	Male	58	39	7847
+13	Electrical Engineer	Karnataka	Tiruvallur	Female	4	79	4377
+18	Design Engineer	Tamil Nadu	Chengalpattu	Female	18	98	9203
+2	Developer IV	Karnataka	Hyderabad	Female	94	87	1777
+100	Design Engineer	Andhra Pradesh	Karur	Male	43	59	9203
+56	Junior Executive	Andhra Pradesh	Bagalkot Ballari (Bellary) Belagavi (Belgaum) Bengaluru Rural Bengaluru Urban Bidar Chamarajanagar Chikballapur Chikkamagaluru Chitradurga Dakshina Kannada Davanagere Dharwad Gadag Hassan Haveri Kalaburagi (Gulbarga) Kodagu Kolar Koppal Mandya Mysuru (Mysore) Raichur Ramanagara Shivamogga (Shimoga) Tumakuru (Tumkur) Udupi Uttara Kannada Vijayapura (Bijapur) Yadgir Vijayanagara Alluri Sitharama Raju Anakapalli Anantapur Annamayya Bapatla Chittoor Dr. B.R. Ambedkar Konaseema East Godavari Eluru Guntur Kakinada Krishna Kurnool Manyam Nandyal NØªØ± (NTR) Palnadu Parvathipuram Manyam Prakasam Partapgarh Srikakulam Sri Sathya Sai Tirupati Visakhapatnam Vizianagaram West Godavari  Adilabad	Male	31	59	5032
+99	Financial Analyst	Tamil Nadu	Bagalkot Ballari (Bellary) Belagavi (Belgaum) Bengaluru Rural Bengaluru Urban Bidar Chamarajanagar Chikballapur Chikkamagaluru Chitradurga Dakshina Kannada Davanagere Dharwad Gadag Hassan Haveri Kalaburagi (Gulbarga) Kodagu Kolar Koppal Mandya Mysuru (Mysore) Raichur Ramanagara Shivamogga (Shimoga) Tumakuru (Tumkur) Udupi Uttara Kannada Vijayapura (Bijapur) Yadgir Vijayanagara Alluri Sitharama Raju Anakapalli Anantapur Annamayya Bapatla Chittoor Dr. B.R. Ambedkar Konaseema East Godavari Eluru Guntur Kakinada Krishna Kurnool Manyam Nandyal NØªØ± (NTR) Palnadu Parvathipuram Manyam Prakasam Partapgarh Srikakulam Sri Sathya Sai Tirupati Visakhapatnam Vizianagaram West Godavari  Adilabad	Female	19	43	8881
+98	Statistician I	Andhra Pradesh	Palakkad	Female	71	42	4331
+76	Community Outreach Specialist	Karnataka	Tiruvannamalai	Male	58	50	5995
+100	General Manager	Tamil Nadu	Pudukkottai	Genderqueer	97	23	6133
+26	Systems Administrator III	Karnataka	Medak	Female	43	80	6401
+34	General Manager	Karnataka	Tiruvannamalai	Female	74	9	6133
+97	Assistant Manager	Andhra Pradesh	Ranipet	Male	88	19	5283
+61	Account Coordinator	and Telangana.	Karimnagar	Male	32	18	5886
+37	Geologist III	Karnataka	Mancherial	Male	79	74	7647
+29	Statistician IV	Andhra Pradesh	Medchal-Malkajgiri	Female	47	86	9671
+58	Account Coordinator	Karnataka	Kollam	Female	100	93	5886
+92	Project Manager	Kerala	Komaram Bheem Asifabad	Male	57	27	7291
+12	Account Executive	and Telangana.	Karur	Female	15	99	3065
+31	Information Systems Manager	Andhra Pradesh	Jogulamba Gadwal	Female	43	5	2475
+18	Database Administrator III	Andhra Pradesh	Theni	Male	20	65	7680
+91	Quality Engineer	Karnataka	Villupuram	Male	54	43	1791
+56	Data Coordinator	Kerala	Thanjavur	Female	93	76	9941
+84	Software Consultant	Karnataka	Narayanpet	Female	95	87	2780
+74	VP Marketing	Karnataka	Idukki	Female	94	24	9438
+64	Food Chemist	and Telangana.	Thrissur	Female	33	9	1411
+63	Mechanical Systems Engineer	Karnataka	Dindigul	Agender	59	80	2296
+68	Media Manager I	Tamil Nadu	Vellore	Female	73	15	7646
+2	Senior Financial Analyst	and Telangana.	Svikarabad	Male	69	59	3469
+62	Nurse Practicioner	and Telangana.	Alappuzha	Female	2	26	8189
+82	Programmer II	Kerala	Karimnagar	Polygender	30	86	2358
+65	Marketing Manager	and Telangana.	Kottayam	Female	54	8	2896
+5	Editor	Karnataka	Chengalpattu	Male	47	34	4362
+91	Staff Accountant I	Andhra Pradesh	Tiruvarur	Female	15	26	3489
+6	Nuclear Power Engineer	Kerala	Kannur	Male	20	13	8220
+53	General Manager	Andhra Pradesh	Ernakulam	Agender	3	87	6133
+53	Junior Executive	Tamil Nadu	Tiruchirappalli	Male	86	41	5032
+83	Software Test Engineer IV	Kerala	Tuticorin	Male	17	98	9337
+6	Senior Developer	Kerala	Alappuzha	Female	24	90	8825
+57	Business Systems Development Analyst	Karnataka	Narayanpet	Male	13	44	7009
+96	Project Manager	Tamil Nadu	Tirunelveli	Female	97	66	7291
+77	Electrical Engineer	and Telangana.	Sivaganga	Male	71	75	4377
+12	Office Assistant IV	Andhra Pradesh	Coimbatore	Male	82	47	4328
+94	Business Systems Development Analyst	Tamil Nadu	Chengalpattu	Genderqueer	4	30	7009
+30	Director of Sales	Karnataka	Villupuram	Female	62	42	8503
+50	Associate Professor	Andhra Pradesh	Tiruvallur	Male	55	43	8638
+45	Junior Executive	Karnataka	Nirmal	Male	8	99	5032
+26	Geological Engineer	Karnataka	Wanaparthy	Female	92	9	7455
+95	Senior Cost Accountant	Andhra Pradesh	Kollam	Male	41	54	3554
+50	General Manager	Tamil Nadu	Madurai	Female	37	13	6133
+90	Nurse Practicioner	Kerala	Tenkasi	Female	68	44	8189
+95	Office Assistant IV	Tamil Nadu	Jagtial	Non-binary	70	84	4328
+90	Statistician III	Kerala	Dindigul	Female	25	19	1786
+66	Operator	and Telangana.	and Yadadri Bhuvanagiri.  Thiruvananthapuram	Male	61	69	3866
+76	VP Quality Control	Kerala	Thanjavur	Female	7	29	4629
+73	Structural Engineer	Karnataka	Madurai	Female	62	82	6109
+22	Social Worker	and Telangana.	Tiruvallur	Male	38	66	2700
+35	Senior Developer	Tamil Nadu	and Kasaragod.  Ariyalur	Male	14	95	8825
+35	Recruiting Manager	and Telangana.	Kamareddy	Female	46	80	4485
+67	Associate Professor	Andhra Pradesh	Kanyakumari	Male	57	54	8638
+22	Nurse Practicioner	Tamil Nadu	Jogulamba Gadwal	Female	35	47	8189
+5	Desktop Support Technician	Karnataka	Tenkasi	Genderfluid	67	39	4112
+23	Administrative Officer	Karnataka	Kanyakumari	Male	69	27	7847
+39	Dental Hygienist	and Telangana.	Theni	Male	44	48	2582
+80	Speech Pathologist	and Telangana.	Tiruvallur	Female	95	37	7081
+58	Food Chemist	Karnataka	Suryapet	Male	77	61	1411
+58	Speech Pathologist	Tamil Nadu	Ranga Reddy	Female	21	72	7081
+52	Product Engineer	Karnataka	and Yadadri Bhuvanagiri.  Thiruvananthapuram	Male	35	38	5738
+73	Environmental Specialist	Kerala	Alappuzha	Male	92	31	4002
+78	Software Engineer II	Karnataka	Nagarkurnool	Female	93	13	7196
+58	Structural Engineer	Karnataka	Wanaparthy	Female	66	55	6109
+56	Structural Analysis Engineer	Karnataka	Medchal-Malkajgiri	Agender	73	94	8346
+87	VP Product Management	Tamil Nadu	Kallakurichi	Male	28	62	6149
+11	Programmer Analyst IV	and Telangana.	Tirunelveli	Female	68	53	1966
+57	General Manager	Tamil Nadu	Suryapet	Female	53	38	6133
+62	Nurse Practicioner	Tamil Nadu	Thanjavur	Female	44	87	8189
+75	Automation Specialist IV	Tamil Nadu	Rajanna Sircilla	Male	11	71	3552
+33	Research Nurse	and Telangana.	Tuticorin	Male	79	58	2741
+61	Recruiting Manager	and Telangana.	Ernakulam	Female	65	78	4485
+29	Paralegal	Kerala	Kancheepuram	Male	10	32	5098
+65	Help Desk Operator	Andhra Pradesh	Vellore	Female	35	24	8772
+78	Legal Assistant	and Telangana.	Pudukkottai	Female	31	30	9066
+92	Sales Associate	and Telangana.	Bhadradri Kothagudem	Male	9	50	9588
+75	Financial Analyst	Tamil Nadu	Jayashankar Bhupalpally	Female	88	69	8881
+3	Administrative Assistant I	and Telangana.	Narayanpet	Female	96	32	8645
+79	Community Outreach Specialist	Karnataka	Karur	Female	84	50	5995
+41	Community Outreach Specialist	and Telangana.	Chennai	Male	66	17	5995
+27	Developer III	and Telangana.	Pudukkottai	Male	63	93	3632
+9	Quality Engineer	and Telangana.	Kannur	Male	88	87	1791
+91	Structural Engineer	and Telangana.	Sangareddy	Male	53	23	6109
+5	Data Coordinator	and Telangana.	Villupuram	Male	24	72	9941
+31	Marketing Assistant	Tamil Nadu	Tiruvallur	Genderqueer	69	32	5479
+1	Health Coach III	Kerala	Idukki	Female	27	98	7680
+12	Sales Representative	Andhra Pradesh	Namakkal	Male	64	2	7737
+30	Software Engineer III	Tamil Nadu	Siddipet	Male	79	25	7196
+95	VP Accounting	and Telangana.	Palakkad	Female	90	100	7184
+72	Recruiter	Andhra Pradesh	Peddapalli	Male	56	85	2946
+8	Computer Systems Analyst III	Kerala	Thrissur	Non-binary	22	32	7470
+5	Senior Editor	Karnataka	Tiruppur	Female	36	56	1138
+80	Safety Technician IV	Karnataka	Jangaon	Female	44	88	2720
+7	Marketing Assistant	Karnataka	Jangaon	Genderfluid	51	26	5479
+88	Occupational Therapist	and Telangana.	Sivaganga	Female	81	33	7345
+89	Structural Engineer	Tamil Nadu	Krishnagiri	Female	85	44	6109
+78	Dental Hygienist	Karnataka	Ranga Reddy	Female	40	99	2582
+95	Developer I	and Telangana.	Theni	Female	52	94	9983
+70	Professor	and Telangana.	Chennai	Male	40	3	5825
+72	Editor	Andhra Pradesh	Thrissur	Male	70	25	4362
+25	Assistant Media Planner	Tamil Nadu	Cuddalore	Agender	57	5	9359
+38	Structural Engineer	Andhra Pradesh	Madurai	Male	79	47	6109
+89	Research Nurse	Kerala	Alappuzha	Female	23	12	2741
+21	Technical Writer	Tamil Nadu	Mancherial	Genderqueer	85	54	7137
+2	Librarian	and Telangana.	Komaram Bheem Asifabad	Female	65	3	6075
+52	Professor	Kerala	Tuticorin	Female	52	15	5825
+62	Accountant III	Andhra Pradesh	Pudukkottai	Male	40	17	9474
+4	Financial Advisor	and Telangana.	Chennai	Female	49	8	1893
+10	Food Chemist	Tamil Nadu	Idukki	Male	25	64	1411
+31	Marketing Assistant	Tamil Nadu	Ernakulam	Bigender	73	37	5479
+12	Electrical Engineer	Karnataka	Jayashankar Bhupalpally	Male	70	54	4377
+9	Professor	Karnataka	Tirunelveli	Male	92	3	5825
+49	Geologist III	Kerala	Namakkal	Female	5	76	7647
+91	Research Associate	Andhra Pradesh	Jagtial	Female	70	33	3004
+45	Speech Pathologist	Karnataka	Pudukkottai	Female	80	87	7081
+90	Structural Engineer	Andhra Pradesh	Dharmapuri	Male	28	44	6109
+17	Electrical Engineer	and Telangana.	and Kasaragod.  Ariyalur	Polygender	14	12	4377
+100	Administrative Assistant III	Karnataka	Ramanathapuram	Female	60	30	6146
+72	Staff Scientist	Karnataka	Kottayam	Male	46	52	5006
+9	Analyst Programmer	and Telangana.	Karimnagar	Polygender	49	7	3355
+68	Account Coordinator	Kerala	Thrissur	Female	14	92	5886
+64	Developer II	Andhra Pradesh	Kottayam	Male	47	45	3632
+86	Recruiter	and Telangana.	Tenkasi	Bigender	93	65	2946
+91	Database Administrator II	Tamil Nadu	Kanyakumari	Female	40	67	4331
+14	Account Executive	Andhra Pradesh	Komaram Bheem Asifabad	Male	4	74	3065
+8	Safety Technician III	Andhra Pradesh	and Virudhunagar.	Female	52	99	2720
+10	Recruiter	Karnataka	Khammam	Male	60	70	2946
+89	Cost Accountant	Kerala	Mancherial	Female	3	59	1352
+4	Editor	Tamil Nadu	Bagalkot Ballari (Bellary) Belagavi (Belgaum) Bengaluru Rural Bengaluru Urban Bidar Chamarajanagar Chikballapur Chikkamagaluru Chitradurga Dakshina Kannada Davanagere Dharwad Gadag Hassan Haveri Kalaburagi (Gulbarga) Kodagu Kolar Koppal Mandya Mysuru (Mysore) Raichur Ramanagara Shivamogga (Shimoga) Tumakuru (Tumkur) Udupi Uttara Kannada Vijayapura (Bijapur) Yadgir Vijayanagara Alluri Sitharama Raju Anakapalli Anantapur Annamayya Bapatla Chittoor Dr. B.R. Ambedkar Konaseema East Godavari Eluru Guntur Kakinada Krishna Kurnool Manyam Nandyal NØªØ± (NTR) Palnadu Parvathipuram Manyam Prakasam Partapgarh Srikakulam Sri Sathya Sai Tirupati Visakhapatnam Vizianagaram West Godavari  Adilabad	Male	89	36	4362
+85	Financial Analyst	and Telangana.	Madurai	Male	96	70	8881
+31	Compensation Analyst	Tamil Nadu	Kozhikode	Male	10	3	4762
+17	Internal Auditor	Kerala	Suryapet	Male	10	100	6218
+35	VP Quality Control	Karnataka	Medchal-Malkajgiri	Male	67	44	4629
+25	Senior Editor	Andhra Pradesh	Kottayam	Male	14	4	1138
+82	Recruiter	Karnataka	Nilgiris	Female	77	96	2946
+42	Teacher	Andhra Pradesh	Chengalpattu	Male	49	89	8252
+77	Data Coordinator	Karnataka	Wanaparthy	Male	88	44	9941
+8	Community Outreach Specialist	and Telangana.	Krishnagiri	Male	72	15	5995
+42	Programmer IV	Andhra Pradesh	Bagalkot Ballari (Bellary) Belagavi (Belgaum) Bengaluru Rural Bengaluru Urban Bidar Chamarajanagar Chikballapur Chikkamagaluru Chitradurga Dakshina Kannada Davanagere Dharwad Gadag Hassan Haveri Kalaburagi (Gulbarga) Kodagu Kolar Koppal Mandya Mysuru (Mysore) Raichur Ramanagara Shivamogga (Shimoga) Tumakuru (Tumkur) Udupi Uttara Kannada Vijayapura (Bijapur) Yadgir Vijayanagara Alluri Sitharama Raju Anakapalli Anantapur Annamayya Bapatla Chittoor Dr. B.R. Ambedkar Konaseema East Godavari Eluru Guntur Kakinada Krishna Kurnool Manyam Nandyal NØªØ± (NTR) Palnadu Parvathipuram Manyam Prakasam Partapgarh Srikakulam Sri Sathya Sai Tirupati Visakhapatnam Vizianagaram West Godavari  Adilabad	Male	64	48	2641
+85	Librarian	Tamil Nadu	Svikarabad	Female	76	60	6075
+7	Senior Cost Accountant	Karnataka	Jayashankar Bhupalpally	Genderfluid	90	61	3554
+57	Account Representative III	Tamil Nadu	Wanaparthy	Male	49	64	1825
+38	Safety Technician I	Karnataka	Kancheepuram	Polygender	69	93	2720
+76	Design Engineer	Tamil Nadu	Wanaparthy	Female	14	41	9203
+20	Data Coordinator	Karnataka	Salem	Female	50	54	9941
+70	VP Marketing	Karnataka	Wanaparthy	Male	61	30	9438
+73	Programmer Analyst II	and Telangana.	Tirupattur	Male	54	37	3581
+55	Media Manager IV	Tamil Nadu	Thrissur	Female	95	80	4742
+68	Design Engineer	and Telangana.	Nirmal	Genderqueer	53	52	9203
+19	Analyst Programmer	Andhra Pradesh	Mahbubnagar	Female	26	82	3355
+93	Physical Therapy Assistant	and Telangana.	Jagtial	Male	36	59	1207
+47	Dental Hygienist	Karnataka	Pudukkottai	Male	17	57	2582
+100	Staff Accountant IV	Karnataka	Medchal-Malkajgiri	Male	37	43	9769
+11	Budget/Accounting Analyst IV	and Telangana.	Tirupattur	Female	48	79	4757
+4	Financial Analyst	Andhra Pradesh	Kottayam	Female	50	21	8881
+31	Software Consultant	Karnataka	Mahabubabad	Male	26	95	2780
+38	Assistant Manager	Karnataka	Jangaon	Female	99	60	5283
+9	Dental Hygienist	Tamil Nadu	Hyderabad	Male	81	42	2582
+87	Payment Adjustment Coordinator	Andhra Pradesh	Nirmal	Male	57	80	4269
+68	Database Administrator IV	Kerala	Svikarabad	Female	13	64	2641
+96	Safety Technician III	Andhra Pradesh	and Yadadri Bhuvanagiri.  Thiruvananthapuram	Male	48	71	2720
+99	Account Representative II	Tamil Nadu	Svikarabad	Female	21	23	8020
+26	Community Outreach Specialist	Tamil Nadu	Warangal (Urban)	Female	69	92	5995
+34	Design Engineer	Kerala	Cuddalore	Non-binary	76	11	9203
+74	Nurse Practicioner	Kerala	Malappuram	Polygender	3	73	8189
+12	Senior Quality Engineer	Karnataka	Peddapalli	Female	2	80	6813
+3	Sales Associate	Karnataka	Mahabubabad	Female	97	89	9588
+73	Project Manager	and Telangana.	Kallakurichi	Non-binary	2	54	7291
+97	Paralegal	Tamil Nadu	Khammam	Female	24	63	5098
+5	Senior Editor	Karnataka	Kozhikode	Male	45	36	1138
+35	Marketing Assistant	Tamil Nadu	Bhadradri Kothagudem	Male	40	39	5479
+44	VP Marketing	and Telangana.	Peddapalli	Female	21	42	9438
+88	Information Systems Manager	Karnataka	Kanyakumari	Female	78	16	2475
+54	Software Consultant	Tamil Nadu	Kanyakumari	Female	43	46	2780
+28	Payment Adjustment Coordinator	Kerala	Nagarkurnool	Female	79	53	4269
+63	Desktop Support Technician	Kerala	Mancherial	Bigender	19	66	4112
+92	Speech Pathologist	and Telangana.	Kannur	Male	24	35	7081
+35	General Manager	Andhra Pradesh	Kozhikode	Male	2	61	6133
+79	Project Manager	Karnataka	Jangaon	Female	42	64	7291
+89	Operator	Tamil Nadu	Mayiladuthurai	Male	43	65	3866
+49	Environmental Tech	Tamil Nadu	Alappuzha	Female	32	33	6751
+83	VP Quality Control	Kerala	Jogulamba Gadwal	Female	100	45	4629
+28	Payment Adjustment Coordinator	Kerala	Nagarkurnool	Female	65	94	4269
+81	Programmer I	Andhra Pradesh	Erode	Male	42	57	2641
+19	Design Engineer	and Telangana.	Thanjavur	Male	64	79	9203
+17	Computer Systems Analyst IV	and Telangana.	Hyderabad	Female	56	8	4604
+91	Environmental Specialist	and Telangana.	Theni	Female	94	24	4002
+9	Budget/Accounting Analyst IV	and Telangana.	Thrissur	Female	35	12	4757
+21	Research Nurse	and Telangana.	Hyderabad	Polygender	96	17	2741
+88	Nurse	and Telangana.	Medchal-Malkajgiri	Genderfluid	21	93	7186
+28	Media Manager IV	Kerala	Coimbatore	Male	27	100	4742
+80	VP Product Management	Andhra Pradesh	Nagapattinam	Male	50	50	6149
+90	Business Systems Development Analyst	Karnataka	Chennai	Female	23	79	7009
+78	Programmer Analyst I	Kerala	Siddipet	Female	58	93	1966
+22	Human Resources Manager	Andhra Pradesh	Krishnagiri	Male	12	30	2357
+92	Senior Financial Analyst	Andhra Pradesh	Sivaganga	Female	23	49	3469
+88	Biostatistician I	and Telangana.	Nalgonda	Agender	74	50	3040
+48	Environmental Specialist	Kerala	Tirupattur	Female	35	32	4002
+3	Paralegal	Andhra Pradesh	Thanjavur	Female	34	69	5098
+8	Business Systems Development Analyst	Andhra Pradesh	Thanjavur	Male	17	66	7009
+14	Administrative Assistant IV	Andhra Pradesh	Nilgiris	Male	38	13	9066
+9	Accountant II	Andhra Pradesh	Siddipet	Female	16	62	4597
+10	Automation Specialist I	Kerala	Suryapet	Female	75	85	3796
+1	Administrative Officer	Tamil Nadu	Krishnagiri	Genderqueer	92	7	7847
+53	Information Systems Manager	Kerala	Villupuram	Agender	85	7	2475
+59	Structural Analysis Engineer	Kerala	Nalgonda	Female	31	47	8346
+16	Senior Cost Accountant	Andhra Pradesh	Alappuzha	Female	77	16	3554
+65	Human Resources Assistant I	and Telangana.	Ranga Reddy	Male	88	22	6719
+28	Financial Advisor	Kerala	Narayanpet	Male	6	9	1893
+10	VP Accounting	Tamil Nadu	Sangareddy	Female	17	21	7184
+11	Food Chemist	Tamil Nadu	Jangaon	Male	52	47	1411
+80	VP Quality Control	Andhra Pradesh	Kanyakumari	Female	39	15	4629
+48	Editor	Tamil Nadu	Ranipet	Female	48	21	4362
+68	VP Sales	Andhra Pradesh	Rajanna Sircilla	Male	52	64	2897
+18	Safety Technician III	Tamil Nadu	Jayashankar Bhupalpally	Male	8	5	2720
+5	Information Systems Manager	Karnataka	Tiruvannamalai	Female	60	34	2475
+84	Office Assistant II	Andhra Pradesh	Thrissur	Genderfluid	23	90	4144
+40	Staff Scientist	Andhra Pradesh	Nirmal	Male	41	93	5006
+38	Office Assistant III	Tamil Nadu	Tiruchirappalli	Male	10	36	4144
+16	Tax Accountant	and Telangana.	Tiruvallur	Female	100	6	7096
+43	Civil Engineer	Tamil Nadu	Karimnagar	Male	45	60	1973
+81	Research Associate	Tamil Nadu	Vellore	Female	77	84	3004
+1	Payment Adjustment Coordinator	Kerala	Wayanad	Female	49	4	4269
+77	Data Coordinator	Karnataka	Theni	Female	38	22	9941
+25	Research Assistant III	Kerala	Vellore	Male	21	42	8991
+20	Payment Adjustment Coordinator	and Telangana.	Villupuram	Female	13	83	4269
+13	Senior Financial Analyst	Kerala	Tiruvannamalai	Genderqueer	26	3	3469
+84	Help Desk Technician	Andhra Pradesh	Wanaparthy	Female	66	17	8448
+9	Safety Technician I	Karnataka	Idukki	Bigender	36	93	2720
+35	Environmental Specialist	Andhra Pradesh	Karur	Female	30	32	4002
+7	Financial Analyst	Karnataka	Wanaparthy	Female	76	14	8881
+12	Marketing Manager	Andhra Pradesh	Kamareddy	Female	71	27	2896
+71	VP Sales	Andhra Pradesh	Rajanna Sircilla	Male	31	72	2897
+92	Director of Sales	and Telangana.	Mayiladuthurai	Male	12	55	8503
+76	Senior Quality Engineer	Andhra Pradesh	Nirmal	Non-binary	9	92	6813
+62	Computer Systems Analyst I	Karnataka	Malkajgiri	Female	49	86	4604
+81	Account Coordinator	Tamil Nadu	Mahabubabad	Female	57	8	5886
+82	Office Assistant IV	Karnataka	Wanaparthy	Female	14	18	4328
+71	Account Coordinator	and Telangana.	Jayashankar Bhupalpally	Male	73	75	5886
+49	Junior Executive	Karnataka	Kallakurichi	Male	29	41	5032
+56	Pharmacist	Karnataka	Jogulamba Gadwal	Female	9	8	3523
+46	Engineer IV	Kerala	and Kasaragod.  Ariyalur	Male	13	11	3188
+86	Research Assistant II	Karnataka	Wayanad	Female	30	35	3984
+72	Desktop Support Technician	and Telangana.	Hyderabad	Male	32	58	4112
+42	Account Coordinator	Kerala	Jogulamba Gadwal	Female	86	56	5886
+65	VP Sales	Kerala	Tiruvallur	Female	31	19	2897
+26	Human Resources Assistant III	Kerala	Kozhikode	Male	43	16	7624
+54	VP Quality Control	Tamil Nadu	Suryapet	Female	55	50	4629
+69	Analog Circuit Design manager	Andhra Pradesh	Chennai	Female	48	69	8821
+80	Civil Engineer	Andhra Pradesh	Tirupattur	Male	63	51	1973
+81	Biostatistician I	Karnataka	Warangal (Urban)	Female	75	98	3040
+86	Speech Pathologist	and Telangana.	Villupuram	Female	29	92	7081
+90	Information Systems Manager	Tamil Nadu	Chengalpattu	Female	90	14	2475
+17	Legal Assistant	Kerala	Mayiladuthurai	Female	28	95	9066
+79	Programmer Analyst I	Kerala	Thrissur	Male	51	84	1966
+59	Account Executive	Kerala	Tuticorin	Male	9	72	3065
+27	Marketing Manager	and Telangana.	Jayashankar Bhupalpally	Female	2	68	2896
+52	VP Marketing	Karnataka	Nagapattinam	Male	1	69	9438
+33	Analog Circuit Design manager	Andhra Pradesh	Wayanad	Female	75	40	8821
+41	VP Sales	Kerala	Khammam	Male	5	45	2897
+31	Senior Sales Associate	Tamil Nadu	Madurai	Female	1	66	6658
+86	Structural Engineer	and Telangana.	Rajanna Sircilla	Female	49	24	6109
+94	Analyst Programmer	Karnataka	Peddapalli	Female	66	36	3355
+78	Assistant Manager	Kerala	Mahabubabad	Female	18	32	5283
+24	Administrative Assistant III	and Telangana.	Dharmapuri	Female	83	54	6146
+63	Administrative Assistant II	and Telangana.	Krishnagiri	Agender	92	23	8645
+43	Research Associate	and Telangana.	Malkajgiri	Male	81	94	3004
+66	Programmer IV	Karnataka	Tiruvarur	Male	13	8	2641
+16	Engineer IV	Karnataka	Madurai	Female	79	70	3188
+87	Sales Representative	Andhra Pradesh	Ranga Reddy	Genderfluid	48	4	7737
+28	Chief Design Engineer	Karnataka	Kamareddy	Male	42	81	2915
+33	Quality Engineer	Andhra Pradesh	Pathanamthitta	Female	83	14	1791
+82	Help Desk Technician	Andhra Pradesh	Bhadradri Kothagudem	Male	42	47	8448
+58	Statistician I	Kerala	Pudukkottai	Male	34	21	4331
+91	Account Executive	and Telangana.	Mahabubabad	Male	29	22	3065
+14	Occupational Therapist	Andhra Pradesh	Pathanamthitta	Male	100	96	7345
+45	Social Worker	and Telangana.	Kamareddy	Male	48	91	2700
+14	Research Assistant I	Karnataka	Nilgiris	Female	71	5	3984
+38	Registered Nurse	and Telangana.	Nilgiris	Male	85	25	9160
+26	Senior Developer	Tamil Nadu	Alappuzha	Female	25	38	8825
+53	Geological Engineer	Andhra Pradesh	Dharmapuri	Female	4	64	7455
+92	Electrical Engineer	Kerala	Tiruchirappalli	Female	94	87	4377
+24	Budget/Accounting Analyst I	Karnataka	Peddapalli	Female	66	35	4757
+82	Human Resources Assistant II	and Telangana.	Khammam	Male	66	92	7624
+47	Teacher	Tamil Nadu	Ramanathapuram	Female	59	41	8252
+43	Recruiter	and Telangana.	Nizamabad	Bigender	22	45	2946
+7	Executive Secretary	Tamil Nadu	Medak	Female	87	54	2297
+89	Chemical Engineer	and Telangana.	Pudukkottai	Female	3	23	3717
+89	Staff Scientist	Karnataka	Palakkad	Female	29	87	5006
+63	Speech Pathologist	Tamil Nadu	Siddipet	Female	13	98	7081
+66	Staff Scientist	Kerala	and Yadadri Bhuvanagiri.  Thiruvananthapuram	Male	99	83	5006
+75	Professor	Karnataka	Svikarabad	Female	87	75	5825
+40	Safety Technician II	Karnataka	Tiruppur	Female	82	85	2720
+19	Computer Systems Analyst II	Tamil Nadu	Alappuzha	Female	10	48	7470
+46	Research Nurse	Karnataka	Coimbatore	Male	75	58	2741
+69	Programmer II	Kerala	Pathanamthitta	Male	25	24	2358
+48	Desktop Support Technician	Kerala	Tiruvannamalai	Female	75	48	4112
+72	Junior Executive	Kerala	Warangal (Urban)	Female	77	39	5032
+32	Assistant Manager	and Telangana.	Warangal (Urban)	Polygender	53	91	5283
+57	Account Coordinator	Kerala	Mahbubnagar	Female	20	93	5886
